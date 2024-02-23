@@ -1,6 +1,5 @@
 # Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake
 
-![snowproj](https://github.com/Acmagno13/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/71137acd-578f-45c9-8229-1e2de3b04ad2)
 
 **Visão Geral do Projeto**
 
@@ -59,7 +58,7 @@ Com Python como guia, descobri padrões e histórias nos dados, criando visualiz
 
 Ao examinar este projeto, considere-o um convite para visualizar os dados através de uma nova lente. É uma prova de que quando se combina conhecimentos analíticos com um impulso para inovar, cada conjunto de dados contém uma história à espera de ser contada, cada análise é um passo em direção a um futuro onde os dados informam todas as decisões.
 
-<img width="1456" alt="Screenshot 2024-02-06 at 8 56 17 AM" src="https://github.com/cmagno13/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/61f02398-dc33-4672-a200-60ef60fc77d7">
+<img width="1456" alt="Screenshot 2024-02-06 at 8 56 17 AM" src="[https://github.com/cmagno13/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake/assets/112967999/61f02398-dc33-4672-a200-60ef60fc77d7](https://github.com/Cmagno13/Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake-main/blob/main/Snowflake%20Dashboard.png)">
 
 # Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake-main
 # Full-Cycle-ETL-Analytics-with-Google-Analytics-and-Snowflake-main
